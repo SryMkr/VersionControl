@@ -1,3 +1,2 @@
 print('aaa')
-print('bbb')
 
